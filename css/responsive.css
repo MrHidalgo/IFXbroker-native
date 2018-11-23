@@ -1,4 +1,12 @@
 /*
+  MAIN for section
+*/
+#intro_broker_first_block > .container,
+#what_we_need_block > .container,
+#ifx_difference_block > .container {
+  max-width: 1350px; }
+
+/*
   1 section
   ===================================
 */
@@ -6,19 +14,24 @@
   overflow: hidden;
   height: 100%;
   max-height: 980px;
-  padding-top: 256px;
-  padding-bottom: 89px;
   background-color: #131319;
   background-image: url("../img/introducing/img-intro-section1.png");
   background-position: 84% bottom;
   background-repeat: no-repeat;
-  padding-top: 100px; }
+  padding-top: 100px;
+  padding-bottom: 50px; }
   @media screen and (min-width: 320px) {
     #intro_broker_first_block {
       padding-top: calc(100px + 156 * (100vw - 320px) / 1120); } }
   @media screen and (min-width: 1440px) {
     #intro_broker_first_block {
       padding-top: 256px; } }
+  @media screen and (min-width: 320px) {
+    #intro_broker_first_block {
+      padding-bottom: calc(50px + 39 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_first_block {
+      padding-bottom: 89px; } }
   @media screen and (max-width: 1365px) {
     #intro_broker_first_block {
       background-position-x: 150%; } }
@@ -30,8 +43,7 @@
       max-height: 100%;
       background-position-x: 150px; } }
   #intro_broker_first_block > .container {
-    padding: 0 15px;
-    max-width: 1350px; }
+    padding: 0 15px; }
     @media screen and (max-width: 767px) {
       #intro_broker_first_block > .container {
         flex-direction: column; } }
@@ -76,33 +88,262 @@
   #intro_broker_first_block .title_block {
     padding-bottom: 43px;
     line-height: 1;
-    font-size: 40px; }
+    font-size: 55px; }
     @media screen and (min-width: 320px) {
       #intro_broker_first_block .title_block {
-        font-size: calc(40px + 80 * (100vw - 320px) / 1120); } }
+        font-size: calc(55px + 65 * (100vw - 320px) / 1120); } }
     @media screen and (min-width: 1440px) {
       #intro_broker_first_block .title_block {
         font-size: 120px; } }
   #intro_broker_first_block .red_square_block {
-    padding: 0 40px;
-    margin-top: 25px;
     line-height: 1.25;
-    font-size: 25px; }
+    font-size: 28px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 250px;
+    height: 250px; }
     @media screen and (min-width: 320px) {
       #intro_broker_first_block .red_square_block {
-        font-size: calc(25px + 15 * (100vw - 320px) / 1120); } }
+        font-size: calc(28px + 12 * (100vw - 320px) / 1120); } }
     @media screen and (min-width: 1440px) {
       #intro_broker_first_block .red_square_block {
         font-size: 40px; } }
+    @media screen and (min-width: 320px) {
+      #intro_broker_first_block .red_square_block {
+        padding-left: calc(20px + 20 * (100vw - 320px) / 1120);
+        padding-right: calc(20px + 20 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_first_block .red_square_block {
+        padding-left: 40px;
+        padding-right: 40px; } }
+    @media screen and (min-width: 320px) {
+      #intro_broker_first_block .red_square_block {
+        width: calc(250px + 81 * (100vw - 320px) / 448);
+        height: calc(250px + 81 * (100vw - 320px) / 448); } }
+    @media screen and (min-width: 768px) {
+      #intro_broker_first_block .red_square_block {
+        width: 331px;
+        height: 331px; } }
+    @media screen and (min-width: 768px) {
+      #intro_broker_first_block .red_square_block {
+        margin-top: 25px; } }
 
 /*
-  1 section
+  2 section
   ===================================
 */
+#what_we_need_block {
+  min-height: 880px;
+  padding-top: 55px;
+  padding-bottom: 65px; }
+  @media screen and (min-width: 320px) {
+    #what_we_need_block {
+      padding-top: calc(55px + 55 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #what_we_need_block {
+      padding-top: 110px; } }
+  @media screen and (min-width: 320px) {
+    #what_we_need_block {
+      padding-bottom: calc(65px + 65 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #what_we_need_block {
+      padding-bottom: 130px; } }
+  #what_we_need_block .title_block {
+    font-size: 40px;
+    line-height: 1.2833333333; }
+    @media screen and (min-width: 320px) {
+      #what_we_need_block .title_block {
+        font-size: calc(40px + 20 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #what_we_need_block .title_block {
+        font-size: 60px; } }
+  @media screen and (max-width: 767px) {
+    #what_we_need_block .row_block {
+      flex-direction: column;
+      margin-bottom: 0 !important; }
+      #what_we_need_block .row_block:last-child .content_block:last-child {
+        margin-bottom: 0; } }
+  #what_we_need_block .row_block:first-child .content_block:last-child {
+    padding-top: 8px; }
+  @media screen and (max-width: 767px) {
+    #what_we_need_block .content_block {
+      width: 100%;
+      margin-bottom: 50px; } }
+  #what_we_need_block .content_block:first-of-type {
+    padding-right: 65px; }
+    @media screen and (min-width: 1440px) {
+      #what_we_need_block .content_block:first-of-type {
+        padding-left: 15px; } }
+    @media screen and (max-width: 1365px) {
+      #what_we_need_block .content_block:first-of-type {
+        padding-right: 35px; } }
+    @media screen and (max-width: 991px) {
+      #what_we_need_block .content_block:first-of-type {
+        padding-right: 15px; } }
+    @media screen and (max-width: 767px) {
+      #what_we_need_block .content_block:first-of-type {
+        padding-right: 0; } }
+  #what_we_need_block .content_block:last-of-type {
+    padding-left: 70px; }
+    @media screen and (max-width: 1365px) {
+      #what_we_need_block .content_block:last-of-type {
+        padding-left: 35px; } }
+    @media screen and (max-width: 991px) {
+      #what_we_need_block .content_block:last-of-type {
+        padding-left: 15px; } }
+    @media screen and (max-width: 767px) {
+      #what_we_need_block .content_block:last-of-type {
+        padding-left: 0; } }
+  #what_we_need_block .text_item_title {
+    margin-bottom: 20px;
+    font-size: 18px; }
+    @media screen and (min-width: 320px) {
+      #what_we_need_block .text_item_title {
+        margin-bottom: calc(20px + 9 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #what_we_need_block .text_item_title {
+        margin-bottom: 29px; } }
+    @media screen and (min-width: 320px) {
+      #what_we_need_block .text_item_title {
+        font-size: calc(18px + 4 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #what_we_need_block .text_item_title {
+        font-size: 22px; } }
+  #what_we_need_block .row_block p {
+    max-width: 100%;
+    line-height: 1.5;
+    font-size: 14px; }
+    @media screen and (min-width: 320px) {
+      #what_we_need_block .row_block p {
+        font-size: calc(14px + 2 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #what_we_need_block .row_block p {
+        font-size: 16px; } }
+
 /*
-  1 section
+  3 section
   ===================================
 */
+#ifx_difference_block {
+  padding-bottom: 45px; }
+  @media screen and (min-width: 320px) {
+    #ifx_difference_block {
+      padding-bottom: calc(45px + 44 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #ifx_difference_block {
+      padding-bottom: 89px; } }
+  #ifx_difference_block .container {
+    margin-bottom: 0; }
+  #ifx_difference_block #diff_title {
+    padding-top: 50px; }
+    @media screen and (min-width: 320px) {
+      #ifx_difference_block #diff_title {
+        padding-top: calc(50px + 50 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #ifx_difference_block #diff_title {
+        padding-top: 100px; } }
+    #ifx_difference_block #diff_title > div:first-child {
+      font-size: 40px;
+      line-height: 1.2833333333; }
+      @media screen and (min-width: 320px) {
+        #ifx_difference_block #diff_title > div:first-child {
+          font-size: calc(40px + 20 * (100vw - 320px) / 1120); } }
+      @media screen and (min-width: 1440px) {
+        #ifx_difference_block #diff_title > div:first-child {
+          font-size: 60px; } }
+    #ifx_difference_block #diff_title > div:last-child {
+      font-size: 25px;
+      line-height: 1.2666666667; }
+      @media screen and (min-width: 320px) {
+        #ifx_difference_block #diff_title > div:last-child {
+          font-size: calc(25px + 5 * (100vw - 320px) / 1120); } }
+      @media screen and (min-width: 1440px) {
+        #ifx_difference_block #diff_title > div:last-child {
+          font-size: 30px; } }
+  @media screen and (max-width: 767px) {
+    #ifx_difference_block .row_block {
+      flex-direction: column;
+      margin-bottom: 0 !important; } }
+  #ifx_difference_block .row_block:nth-child(1) {
+    margin-bottom: 41px; }
+  #ifx_difference_block .row_block:nth-child(2) {
+    margin-bottom: 41px; }
+  #ifx_difference_block .row_block:nth-child(3) {
+    margin-bottom: 36px; }
+  #ifx_difference_block .row_block:last-of-type {
+    margin-bottom: 0; }
+  #ifx_difference_block .row_block p {
+    max-width: 100%;
+    color: rgba(19, 19, 36, 0.7);
+    font-size: 14px;
+    line-height: 1.5; }
+    @media screen and (min-width: 320px) {
+      #ifx_difference_block .row_block p {
+        font-size: calc(14px + 2 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #ifx_difference_block .row_block p {
+        font-size: 16px; } }
+  @media screen and (max-width: 767px) {
+    #ifx_difference_block .content_block {
+      width: 100%;
+      padding-bottom: 45px; } }
+  #ifx_difference_block .content_block:first-child {
+    padding-right: 40px; }
+    @media screen and (max-width: 1365px) {
+      #ifx_difference_block .content_block:first-child {
+        padding-right: 30px; } }
+    @media screen and (max-width: 991px) {
+      #ifx_difference_block .content_block:first-child {
+        padding-right: 15px; } }
+    @media screen and (max-width: 767px) {
+      #ifx_difference_block .content_block:first-child {
+        padding-right: 0; } }
+  #ifx_difference_block .content_block:last-child {
+    padding-left: 40px; }
+    @media screen and (max-width: 1365px) {
+      #ifx_difference_block .content_block:last-child {
+        padding-left: 30px; } }
+    @media screen and (max-width: 991px) {
+      #ifx_difference_block .content_block:last-child {
+        padding-left: 15px; } }
+    @media screen and (max-width: 767px) {
+      #ifx_difference_block .content_block:last-child {
+        padding-left: 0; } }
+  #ifx_difference_block .diff_icon {
+    width: 135px;
+    padding-top: 15px; }
+    @media screen and (max-width: 767px) {
+      #ifx_difference_block .diff_icon {
+        width: 100px;
+        padding-right: 15px; }
+        #ifx_difference_block .diff_icon img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+          margin-left: auto;
+          margin-right: auto; } }
+  #ifx_difference_block .diff_cont {
+    width: 100%;
+    max-width: calc(100% - 135px);
+    padding-left: 0; }
+    @media screen and (max-width: 767px) {
+      #ifx_difference_block .diff_cont {
+        max-width: calc(100% - 100px); } }
+    #ifx_difference_block .diff_cont > * {
+      width: 100%;
+      max-width: 470px; }
+  #ifx_difference_block .text_item_title {
+    margin-bottom: 16px;
+    letter-spacing: 0.3px;
+    font-size: 18px;
+    line-height: 1.2727272727; }
+    @media screen and (min-width: 320px) {
+      #ifx_difference_block .text_item_title {
+        font-size: calc(18px + 4 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #ifx_difference_block .text_item_title {
+        font-size: 22px; } }
+
 /*
   1 section
   ===================================
