@@ -3,7 +3,8 @@
 */
 #intro_broker_first_block > .container,
 #what_we_need_block > .container,
-#ifx_difference_block > .container {
+#ifx_difference_block > .container,
+#intro_broker_expectation > .container {
   max-width: 1350px; }
 
 /*
@@ -345,9 +346,115 @@
         font-size: 22px; } }
 
 /*
-  1 section
+  4 section
   ===================================
 */
+#intro_broker_expectation {
+  padding-bottom: 40px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_expectation {
+      padding-bottom: calc(40px + 43 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_expectation {
+      padding-bottom: 83px; } }
+  @media screen and (min-width: 1200px) {
+    #intro_broker_expectation .container {
+      padding: 0 37px; } }
+  #intro_broker_expectation #expect_title {
+    padding-top: 50px; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_expectation #expect_title {
+        padding-top: calc(50px + 49 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_expectation #expect_title {
+        padding-top: 99px; } }
+    #intro_broker_expectation #expect_title div {
+      font-size: 40px;
+      line-height: 1.2833333333; }
+      @media screen and (min-width: 320px) {
+        #intro_broker_expectation #expect_title div {
+          font-size: calc(40px + 20 * (100vw - 320px) / 1120); } }
+      @media screen and (min-width: 1440px) {
+        #intro_broker_expectation #expect_title div {
+          font-size: 60px; } }
+  #intro_broker_expectation #expect_banner {
+    padding-top: 64px;
+    padding-bottom: 55px;
+    margin-bottom: 0;
+    padding-top: 40px;
+    padding-bottom: 40px; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_expectation #expect_banner {
+        padding-top: calc(40px + 24 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_expectation #expect_banner {
+        padding-top: 64px; } }
+    @media screen and (min-width: 320px) {
+      #intro_broker_expectation #expect_banner {
+        padding-bottom: calc(40px + 15 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_expectation #expect_banner {
+        padding-bottom: 55px; } }
+  #intro_broker_expectation .red_square_block {
+    position: relative;
+    top: -24px;
+    width: 100%;
+    max-width: 340px;
+    height: 340px; }
+    @media screen and (max-width: 1199px) {
+      #intro_broker_expectation .red_square_block {
+        transform: scale(0.85); } }
+    @media screen and (max-width: 767px) {
+      #intro_broker_expectation .red_square_block {
+        transform: scale(0.85) translateX(-15px); } }
+  #intro_broker_expectation .row_block {
+    justify-content: space-between;
+    margin-bottom: 54px; }
+    @media screen and (max-width: 767px) {
+      #intro_broker_expectation .row_block {
+        flex-direction: column;
+        margin-bottom: 0; } }
+    #intro_broker_expectation .row_block:last-child {
+      padding-bottom: 0; }
+    #intro_broker_expectation .row_block p {
+      max-width: 100%;
+      font-size: 14px;
+      line-height: 1.5;
+      letter-spacing: 0.3px; }
+      @media screen and (min-width: 320px) {
+        #intro_broker_expectation .row_block p {
+          font-size: calc(14px + 2 * (100vw - 320px) / 1120); } }
+      @media screen and (min-width: 1440px) {
+        #intro_broker_expectation .row_block p {
+          font-size: 16px; } }
+  #intro_broker_expectation .content_block {
+    width: 100%;
+    max-width: 540px;
+    padding-right: 10px; }
+    @media screen and (max-width: 767px) {
+      #intro_broker_expectation .content_block {
+        padding: 0;
+        margin-bottom: 45px; }
+        #intro_broker_expectation .content_block:last-child {
+          margin-bottom: 0; } }
+    @media screen and (min-width: 768px) {
+      #intro_broker_expectation .content_block:first-child {
+        padding-right: 15px; } }
+    @media screen and (min-width: 768px) {
+      #intro_broker_expectation .content_block:last-child {
+        padding-left: 15px; } }
+  #intro_broker_expectation .text_item_title {
+    margin-bottom: 18px;
+    letter-spacing: 0.3px;
+    font-size: 18px;
+    line-height: 1.2727272727; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_expectation .text_item_title {
+        font-size: calc(18px + 4 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_expectation .text_item_title {
+        font-size: 22px; } }
+
 /*
   1 section
   ===================================
