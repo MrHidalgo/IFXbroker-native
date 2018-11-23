@@ -1,8 +1,13 @@
-livezilla/*
-old website/*
-quotes/*
-.idea/*
+livezilla
+old website
+quotes
+.idea
+.sass-cache
 
 *.php
+*.map
 .htaccess
 *.xml
+*.scss
+
+quotes.js
