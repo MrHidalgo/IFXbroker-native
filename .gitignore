@@ -1,0 +1,8 @@
+livezilla/*
+old website/*
+quotes/*
+.idea/*
+
+*.php
+.htaccess
+*.xml

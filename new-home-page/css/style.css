@@ -1,0 +1,18 @@
+body .container {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+body .container .text-wrapper h2 {
+  font-size: 25px;
+  line-height: 25px;
+  color: red;
+  text-align: center;
+}
+body .container .text-wrapper p {
+  font-size: 30px;
+  color: #000;
+  line-height: 15px;
+}
+body .container .text-wrapper p span {
+  color: #000;
+}
