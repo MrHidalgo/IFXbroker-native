@@ -12,7 +12,8 @@
 #intro_broker_rewards > .container,
 #intro_broker_poty > .container,
 #intro_broker_not_work > .container,
-#intro_broker_get_start > .container {
+#intro_broker_get_start > .container,
+#intro_broker_contact > .container {
   max-width: 1350px; }
 
 /*
@@ -1348,5 +1349,104 @@
   14 section
   ===================================
 */
+#intro_broker_contact {
+  background-size: cover;
+  background-position: center; }
+  #intro_broker_contact > .container {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 100px;
+    padding-bottom: 70px; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact > .container {
+        padding-top: calc(100px + 100 * (100vw - 320px) / 1600); } }
+    @media screen and (min-width: 1920px) {
+      #intro_broker_contact > .container {
+        padding-top: 200px; } }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact > .container {
+        padding-bottom: calc(70px + 70 * (100vw - 320px) / 1600); } }
+    @media screen and (min-width: 1920px) {
+      #intro_broker_contact > .container {
+        padding-bottom: 140px; } }
+  @media screen and (max-width: 991px) {
+    #intro_broker_contact .half_block {
+      width: 100%;
+      padding-bottom: 30px; } }
+  #intro_broker_contact .half_block .contact_item {
+    width: 68px;
+    height: 68px; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact .half_block .contact_item {
+        width: calc(68px + 60 * (100vw - 320px) / 1600);
+        height: calc(68px + 60 * (100vw - 320px) / 1600); } }
+    @media screen and (min-width: 1920px) {
+      #intro_broker_contact .half_block .contact_item {
+        width: 128px;
+        height: 128px; } }
+    #intro_broker_contact .half_block .contact_item img {
+      display: block;
+      max-width: 100%;
+      height: auto; }
+  #intro_broker_contact .half_block .contact_content {
+    font-size: 18px;
+    padding-left: 15px;
+    line-height: 1.1666666667; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact .half_block .contact_content {
+        font-size: calc(18px + 6 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_contact .half_block .contact_content {
+        font-size: 24px; } }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact .half_block .contact_content {
+        padding-left: calc(15px + 41 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_contact .half_block .contact_content {
+        padding-left: 56px; } }
+    @media screen and (max-width: 767px) {
+      #intro_broker_contact .half_block .contact_content {
+        padding-top: 0; } }
+    #intro_broker_contact .half_block .contact_content span {
+      display: block;
+      font-size: 20px;
+      line-height: 1.4; }
+      @media screen and (min-width: 320px) {
+        #intro_broker_contact .half_block .contact_content span {
+          font-size: calc(20px + 30 * (100vw - 320px) / 1600); } }
+      @media screen and (min-width: 1920px) {
+        #intro_broker_contact .half_block .contact_content span {
+          font-size: 50px; } }
+  #intro_broker_contact .title_block {
+    line-height: 1;
+    font-size: 55px; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact .title_block {
+        font-size: calc(55px + 65 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_contact .title_block {
+        font-size: 120px; } }
+    @media screen and (max-width: 767px) {
+      #intro_broker_contact .title_block {
+        width: 100%; } }
+  #intro_broker_contact .content_block {
+    margin-bottom: 55px;
+    font-size: 22px;
+    line-height: 1.5; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact .content_block {
+        margin-bottom: calc(55px + 70 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_contact .content_block {
+        margin-bottom: 125px; } }
+    @media screen and (min-width: 320px) {
+      #intro_broker_contact .content_block {
+        font-size: calc(22px + 10 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_contact .content_block {
+        font-size: 32px; } }
+    @media screen and (max-width: 767px) {
+      #intro_broker_contact .content_block {
+        width: 100%; } }
 
 /*# sourceMappingURL=responsive.css.map */
