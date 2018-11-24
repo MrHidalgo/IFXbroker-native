@@ -6,7 +6,9 @@
 #ifx_difference_block > .container,
 #intro_broker_expectation > .container,
 #intro_broker_partnership > .container,
-#intro_broker_strategies > .container {
+#intro_broker_strategies > .container,
+#intro_broker_partners > .container,
+#intro_broker_promo > .container {
   max-width: 1350px; }
 
 /*
@@ -643,14 +645,20 @@
   ===================================
 */
 #intro_broker_strategies {
-  padding-bottom: 42px;
-  padding-top: 50px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
   @media screen and (min-width: 320px) {
     #intro_broker_strategies {
       padding-top: calc(50px + 59 * (100vw - 320px) / 1120); } }
   @media screen and (min-width: 1440px) {
     #intro_broker_strategies {
       padding-top: 109px; } }
+  @media screen and (min-width: 320px) {
+    #intro_broker_strategies {
+      padding-bottom: calc(50px + 18 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_strategies {
+      padding-bottom: 68px; } }
   #intro_broker_strategies > .container {
     padding: 0 15px; }
     @media screen and (max-width: 767px) {
@@ -750,9 +758,124 @@
         font-size: 32px; } }
 
 /*
-  1 section
+  7 section
   ===================================
 */
+#intro_broker_partners {
+  position: relative;
+  background-image: none;
+  padding-top: 90px;
+  padding-bottom: 115px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_partners {
+      padding-top: calc(90px + 90 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_partners {
+      padding-top: 180px; } }
+  @media screen and (min-width: 320px) {
+    #intro_broker_partners {
+      padding-bottom: calc(115px + 121 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_partners {
+      padding-bottom: 236px; } }
+  #intro_broker_partners .bg {
+    z-index: 0;
+    position: absolute;
+    display: flex;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+    @media screen and (max-width: 767px) {
+      #intro_broker_partners .bg {
+        position: static; } }
+    #intro_broker_partners .bg_left, #intro_broker_partners .bg_right {
+      width: 50%;
+      height: 100%; }
+    #intro_broker_partners .bg_left {
+      left: 0; }
+      @media screen and (max-width: 767px) {
+        #intro_broker_partners .bg_left {
+          display: none; } }
+    #intro_broker_partners .bg_right {
+      right: 0;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center; }
+      @media screen and (max-width: 767px) {
+        #intro_broker_partners .bg_right {
+          width: 100%; } }
+    #intro_broker_partners .bg img {
+      display: block;
+      max-width: 100%;
+      height: auto; }
+  #intro_broker_partners > .container {
+    z-index: 1;
+    position: relative;
+    padding: 0 15px; }
+  @media screen and (max-width: 767px) {
+    #intro_broker_partners .half_block {
+      width: 100%; } }
+  #intro_broker_partners .partners_title {
+    font-size: 45px;
+    line-height: 1.28; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_partners .partners_title {
+        font-size: calc(45px + 55 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_partners .partners_title {
+        font-size: 100px; } }
+  #intro_broker_partners .partners_subtitle {
+    font-size: 22px;
+    line-height: 1.2666666667; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_partners .partners_subtitle {
+        font-size: calc(22px + 8 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_partners .partners_subtitle {
+        font-size: 30px; } }
+  #intro_broker_partners .partners_description {
+    font-size: 14px;
+    line-height: 1.5; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_partners .partners_description {
+        font-size: calc(14px + 2 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_partners .partners_description {
+        font-size: 16px; } }
+  #intro_broker_partners .partners_note {
+    letter-spacing: -0.1px;
+    line-height: 1.7142857143;
+    font-size: 12px; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_partners .partners_note {
+        font-size: calc(12px + 2 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_partners .partners_note {
+        font-size: 14px; } }
+  #intro_broker_partners #partners_menu a {
+    pointer-events: none;
+    cursor: default;
+    padding: 15px 24px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_partners #partners_menu a {
+        padding-left: calc(20px + 4 * (100vw - 320px) / 1120);
+        padding-right: calc(20px + 4 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_partners #partners_menu a {
+        padding-left: 24px;
+        padding-right: 24px; } }
+    @media screen and (min-width: 320px) {
+      #intro_broker_partners #partners_menu a {
+        font-size: calc(12px + 4 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_partners #partners_menu a {
+        font-size: 16px; } }
+
 /*
   1 section
   ===================================
