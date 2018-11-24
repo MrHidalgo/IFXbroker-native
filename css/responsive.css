@@ -10,7 +10,8 @@
 #intro_broker_partners > .container,
 #intro_broker_promo > .container,
 #intro_broker_rewards > .container,
-#intro_broker_poty > .container {
+#intro_broker_poty > .container,
+#intro_broker_not_work > .container {
   max-width: 1350px; }
 
 /*
@@ -1091,6 +1092,79 @@
   11 section
   ===================================
 */
+#intro_broker_not_work {
+  padding-top: 70px;
+  padding-bottom: 50px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_not_work {
+      padding-top: calc(70px + 70 * (100vw - 320px) / 1600); } }
+  @media screen and (min-width: 1920px) {
+    #intro_broker_not_work {
+      padding-top: 140px; } }
+  @media screen and (min-width: 320px) {
+    #intro_broker_not_work {
+      padding-bottom: calc(50px + 50 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_not_work {
+      padding-bottom: 100px; } }
+  #intro_broker_not_work > .container {
+    padding: 0 15px; }
+    @media screen and (max-width: 767px) {
+      #intro_broker_not_work > .container {
+        flex-direction: column-reverse; } }
+  @media screen and (max-width: 767px) {
+    #intro_broker_not_work .half_block {
+      width: 100%; } }
+  @media screen and (max-width: 767px) {
+    #intro_broker_not_work .right_block {
+      padding-left: 0; } }
+  @media screen and (max-width: 991px) {
+    #intro_broker_not_work .left_block img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto; } }
+  #intro_broker_not_work .partners_title {
+    font-size: 45px;
+    line-height: 1.28; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_not_work .partners_title {
+        font-size: calc(45px + 55 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_not_work .partners_title {
+        font-size: 100px; } }
+  #intro_broker_not_work .partners_subtitle {
+    font-size: 22px;
+    line-height: 1.2666666667; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_not_work .partners_subtitle {
+        font-size: calc(22px + 8 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_not_work .partners_subtitle {
+        font-size: 30px; } }
+  #intro_broker_not_work .partners_text {
+    font-size: 16px;
+    line-height: 1.5; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_not_work .partners_text {
+        font-size: calc(16px + 4 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_not_work .partners_text {
+        font-size: 20px; } }
+  #intro_broker_not_work .content_blocks {
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: "SF Pro Text", san-serif; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_not_work .content_blocks {
+        font-size: calc(14px + 2 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_not_work .content_blocks {
+        font-size: 16px; } }
+    #intro_broker_not_work .content_blocks div {
+      margin-bottom: 45px; }
+
 /*
   12 section
   ===================================
