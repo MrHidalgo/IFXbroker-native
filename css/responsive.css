@@ -8,7 +8,8 @@
 #intro_broker_partnership > .container,
 #intro_broker_strategies > .container,
 #intro_broker_partners > .container,
-#intro_broker_promo > .container {
+#intro_broker_promo > .container,
+#intro_broker_rewards > .container {
   max-width: 1350px; }
 
 /*
@@ -960,9 +961,86 @@
       padding-top: 48px; }
 
 /*
-  1 section
+  9 section
   ===================================
 */
+@media screen and (max-width: 1199px) {
+  #intro_broker_rewards {
+    margin-top: 0; } }
+#intro_broker_rewards > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 50px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_rewards > .container {
+      padding-top: calc(50px + 150 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_rewards > .container {
+      padding-top: 200px; } }
+  @media screen and (max-width: 991px) {
+    #intro_broker_rewards > .container {
+      flex-direction: column; } }
+@media screen and (max-width: 991px) {
+  #intro_broker_rewards .half_block {
+    width: 100%;
+    text-align: center; } }
+@media screen and (max-width: 1199px) {
+  #intro_broker_rewards .right_block {
+    max-height: 100%; } }
+@media screen and (max-width: 1199px) {
+  #intro_broker_rewards .right_block > img {
+    display: none; } }
+@media screen and (max-width: 1199px) {
+  #intro_broker_rewards .right_block > div {
+    position: static;
+    max-width: 100%; } }
+#intro_broker_rewards .partners_title {
+  font-size: 45px;
+  line-height: 1; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_rewards .partners_title {
+      font-size: calc(45px + 55 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_rewards .partners_title {
+      font-size: 100px; } }
+#intro_broker_rewards .partners_subtitle {
+  margin: 0;
+  padding: 37px 0 23px;
+  font-size: 22px;
+  line-height: 1.2666666667; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_rewards .partners_subtitle {
+      font-size: calc(22px + 8 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_rewards .partners_subtitle {
+      font-size: 30px; } }
+#intro_broker_rewards .partners_text {
+  margin-bottom: 85px;
+  font-size: 18px;
+  line-height: 1.4545454545; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_rewards .partners_text {
+      font-size: calc(18px + 4 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_rewards .partners_text {
+      font-size: 22px; } }
+  @media screen and (max-width: 767px) {
+    #intro_broker_rewards .partners_text br {
+      display: none; } }
+#intro_broker_rewards .partners_description {
+  margin-top: 23px;
+  font-size: 14px;
+  line-height: 1.5; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_rewards .partners_description {
+      font-size: calc(14px + 2 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_rewards .partners_description {
+      font-size: 16px; } }
+  @media screen and (max-width: 767px) {
+    #intro_broker_rewards .partners_description br {
+      display: none; } }
+
 /*
   1 section
   ===================================
