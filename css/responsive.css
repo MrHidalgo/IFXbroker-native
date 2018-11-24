@@ -11,7 +11,8 @@
 #intro_broker_promo > .container,
 #intro_broker_rewards > .container,
 #intro_broker_poty > .container,
-#intro_broker_not_work > .container {
+#intro_broker_not_work > .container,
+#intro_broker_get_start > .container {
   max-width: 1350px; }
 
 /*
@@ -1221,6 +1222,128 @@
   13 section
   ===================================
 */
+#intro_broker_get_start > .container {
+  padding-left: 15px;
+  padding-right: 15px; }
+@media screen and (max-width: 767px) {
+  #intro_broker_get_start .half_block {
+    width: 100%; } }
+@media screen and (max-width: 991px) {
+  #intro_broker_get_start .content_block {
+    height: auto; } }
+@media screen and (max-width: 767px) {
+  #intro_broker_get_start .content_block {
+    flex-direction: column; } }
+@media screen and (max-width: 991px) {
+  #intro_broker_get_start .right_block > div {
+    padding-top: 15px; } }
+@media screen and (max-width: 767px) {
+  #intro_broker_get_start .right_block > div {
+    padding-left: 15px; } }
+#intro_broker_get_start .left_block > div:first-child {
+  padding-left: 15px;
+  padding-right: 15px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .left_block > div:first-child {
+      padding-left: calc(15px + 115 * (100vw - 320px) / 1600);
+      padding-right: calc(15px + 115 * (100vw - 320px) / 1600); } }
+  @media screen and (min-width: 1920px) {
+    #intro_broker_get_start .left_block > div:first-child {
+      padding-left: 130px;
+      padding-right: 130px; } }
+  @media screen and (max-width: 991px) {
+    #intro_broker_get_start .left_block > div:first-child {
+      padding-left: 15px; } }
+#intro_broker_get_start .title_block {
+  font-size: 45px;
+  line-height: 1.28;
+  padding-bottom: 70px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .title_block {
+      font-size: calc(45px + 55 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start .title_block {
+      font-size: 100px; } }
+#intro_broker_get_start .get_start_title {
+  font-size: 35px;
+  line-height: 1.2833333333; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .get_start_title {
+      font-size: calc(35px + 25 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start .get_start_title {
+      font-size: 60px; } }
+#intro_broker_get_start .get_start_text {
+  font-size: 18px;
+  line-height: 1.4545454545; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .get_start_text {
+      font-size: calc(18px + 4 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start .get_start_text {
+      font-size: 22px; } }
+#intro_broker_get_start .red_square_block {
+  line-height: 1.25;
+  font-size: 28px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 250px;
+  height: 250px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .red_square_block {
+      font-size: calc(28px + 12 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start .red_square_block {
+      font-size: 40px; } }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .red_square_block {
+      padding-left: calc(20px + 20 * (100vw - 320px) / 1120);
+      padding-right: calc(20px + 20 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start .red_square_block {
+      padding-left: 40px;
+      padding-right: 40px; } }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .red_square_block {
+      width: calc(250px + 81 * (100vw - 320px) / 448);
+      height: calc(250px + 81 * (100vw - 320px) / 448); } }
+  @media screen and (min-width: 768px) {
+    #intro_broker_get_start .red_square_block {
+      width: 331px;
+      height: 331px; } }
+#intro_broker_get_start .gss_num {
+  font-size: 35px;
+  line-height: 1.2833333333; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .gss_num {
+      font-size: calc(35px + 25 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start .gss_num {
+      font-size: 60px; } }
+#intro_broker_get_start .gss_content {
+  font-size: 16px;
+  line-height: 1.4;
+  font-family: "Open Sans", sans-serif; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start .gss_content {
+      font-size: calc(16px + 4 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start .gss_content {
+      font-size: 20px; } }
+#intro_broker_get_start a {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  font-size: 12px;
+  font-family: "Open Sans", sans-serif;
+  min-height: 50px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_get_start a {
+      font-size: calc(12px + 4 * (100vw - 320px) / 1120); } }
+  @media screen and (min-width: 1440px) {
+    #intro_broker_get_start a {
+      font-size: 16px; } }
+
 /*
   14 section
   ===================================
