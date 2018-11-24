@@ -1,6 +1,9 @@
 /*
   MAIN for section
 */
+.p-intro {
+  overflow-x: hidden; }
+
 #intro_broker_first_block > .container,
 #what_we_need_block > .container,
 #ifx_difference_block > .container,
