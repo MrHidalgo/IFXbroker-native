@@ -1169,5 +1169,61 @@
   12 section
   ===================================
 */
+#intro_broker_goodies {
+  background-size: cover;
+  height: 640px; }
+  @media screen and (min-width: 320px) {
+    #intro_broker_goodies {
+      height: calc(640px + 750 * (100vw - 320px) / 1280); } }
+  @media screen and (min-width: 1600px) {
+    #intro_broker_goodies {
+      height: 1390px; } }
+  @media screen and (max-width: 575px) {
+    #intro_broker_goodies {
+      background-image: none;
+      height: auto;
+      padding-top: 50px;
+      padding-bottom: 50px; } }
+  #intro_broker_goodies > .container {
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 790px; }
+  #intro_broker_goodies .title_block {
+    font-size: 45px;
+    line-height: 1.28; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_goodies .title_block {
+        font-size: calc(45px + 55 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_goodies .title_block {
+        font-size: 100px; } }
+  #intro_broker_goodies .goodies_subtitle {
+    font-size: 22px;
+    line-height: 1.2666666667; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_goodies .goodies_subtitle {
+        font-size: calc(22px + 8 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_goodies .goodies_subtitle {
+        font-size: 30px; } }
+  #intro_broker_goodies .godies_text {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "SF Pro Text", san-serif; }
+    @media screen and (min-width: 320px) {
+      #intro_broker_goodies .godies_text {
+        font-size: calc(16px + 4 * (100vw - 320px) / 1120); } }
+    @media screen and (min-width: 1440px) {
+      #intro_broker_goodies .godies_text {
+        font-size: 20px; } }
+
+/*
+  13 section
+  ===================================
+*/
+/*
+  14 section
+  ===================================
+*/
 
 /*# sourceMappingURL=responsive.css.map */
