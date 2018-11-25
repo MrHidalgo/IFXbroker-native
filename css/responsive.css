@@ -579,6 +579,8 @@
     @media screen and (max-width: 767px) {
       #intro_broker_partnership .masonry_block {
         flex-direction: column; } }
+    #intro_broker_partnership .masonry_block table td {
+      font-family: "Open Sans", sans-serif; }
     #intro_broker_partnership .masonry_block .masonry_block-col {
       width: calc((100% / 3) - 20px);
       padding: 0;
