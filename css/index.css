@@ -56,11 +56,13 @@ html {
   padding: 15px 0; }
   .header-top .flex-justify {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     margin-bottom: 15px; }
     .header-top .flex-justify img {
       margin-top: 5px;
-      max-width: 120px; }
+      /*max-width: 120px; */
+    }
     .header-top .flex-justify .buttons-account ul {
       display: flex; }
       .header-top .flex-justify .buttons-account ul li {
