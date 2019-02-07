@@ -3547,17 +3547,27 @@ picture {
   }
 }
 
+.e-faqs__block-body ul {
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+.e-faqs__block-body ul li {
+  padding-top: 10px;
+}
+
 /* line 135, src/scss/_components/_faqs.scss */
-.e-faqs__block-body p {
+.e-faqs__block-body p,
+.e-faqs__block-body li {
   font-family: SF Pro Text, sans-serif;
   line-height: 28px;
   color: #333333;
-  font-size: 16px;
 }
 
 @media screen and (min-width: 320px) {
   /* line 135, src/scss/_components/_faqs.scss */
-  .e-faqs__block-body p {
+  .e-faqs__block-body p,
+  .e-faqs__block-body li {
     font-size: -webkit-calc(16px + 2 * (100vw - 320px) / 447);
     font-size: calc(16px + 2 * (100vw - 320px) / 447);
   }
@@ -3565,7 +3575,8 @@ picture {
 
 @media screen and (min-width: 767px) {
   /* line 135, src/scss/_components/_faqs.scss */
-  .e-faqs__block-body p {
+  .e-faqs__block-body p,
+  .e-faqs__block-body li {
     font-size: 18px;
   }
 }
