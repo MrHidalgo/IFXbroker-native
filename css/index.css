@@ -2615,3 +2615,77 @@ transform: scale(1.03,1.03);
   font-size: 16px;
   font-weight: bold;
 }
+
+@media screen and (min-width: 1600px) {
+  header.header--ni .container {
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  header.header--ni .flex-justify > div:nth-of-type(1) {
+    width: 213px;
+  }
+  header.header--ni .flex-justify > div:nth-of-type(2) {
+    flex: 1;
+    min-width: 1px;
+    max-width: 100%;
+    padding-left: 87px;
+  }
+  header.header--ni .flex-justify > div:nth-of-type(3) {
+    width: 438px;
+  }
+
+  header.header--ni .flex-justify nav ul {
+    justify-content: flex-start;
+  }
+
+  header.header--ni .flex-justify nav ul li {
+    margin-right: 30px;
+  }
+
+  header.header--ni .flex-justify nav ul li:last-child {
+    margin-right: 0;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  header.header--ni .container {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
+
+@media screen and (max-width: 1599px) and (min-width: 951px) {
+  header.header--ni .flex-justify {
+    flex-wrap: wrap;
+  }
+  header.header--ni .flex-justify > div:nth-of-type(1) {
+    order: 1;
+  }
+  header.header--ni .flex-justify > div:nth-of-type(2) {
+    order: 3;
+    width: 100%;
+    padding-top: 20px;
+  }
+  header.header--ni .flex-justify > div:nth-of-type(3) {
+    order: 2;
+  }
+}
+
+@media screen and (min-width: 951px) {
+  header.header--ni .flex-justify nav ul li a {
+    color: #000000;
+    font-size: 16px;
+  }
+  header.header--ni .flex-justify .buttons-account ul li .button.sign-in,
+  header.header--ni .flex-justify .buttons-account ul li .button.account-button {
+    background-color: transparent;
+    color: #000000;
+  }
+}
+
+header.header--ni {
+  position: relative;
+  z-index: 1000;
+}

@@ -16,49 +16,50 @@ $( document ).ready(function() {
 
         ]
     });
-    $('.small-slider').slick({
+    // console.log($('.small-slider'));
+    $('.small-slider').not('.slick-initialized').slick({
         arrows:false,
         infinite: true,
         dots: true,
         autoplay:true
     });
-    $('.partners-list ul').slick({
-        infinite: true,
-        slidesToShow: 5,
-        slidesToScroll: 1,
-        arrows: false,
-        dots:false,
-        autoplay:true,
-        swipe:true,
-        speed:2000,
-        responsive: [
-            {
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 4
-                }
-            },
-            {
-                breakpoint: 780,
-                settings: {
-                    slidesToShow: 3
-                }
-            },
-            {
-                breakpoint: 560,
-                settings: {
-                    slidesToShow: 2
-                }
-            },
-            {
-                breakpoint: 420,
-                settings: {
-                    slidesToShow: 2
-
-                }
-            }
-        ]
-    });
+    // $('.partners-list ul').slick({
+    //     infinite: true,
+    //     slidesToShow: 5,
+    //     slidesToScroll: 1,
+    //     arrows: false,
+    //     dots:false,
+    //     autoplay:true,
+    //     swipe:true,
+    //     speed:2000,
+    //     responsive: [
+    //         {
+    //             breakpoint: 1024,
+    //             settings: {
+    //                 slidesToShow: 4
+    //             }
+    //         },
+    //         {
+    //             breakpoint: 780,
+    //             settings: {
+    //                 slidesToShow: 3
+    //             }
+    //         },
+    //         {
+    //             breakpoint: 560,
+    //             settings: {
+    //                 slidesToShow: 2
+    //             }
+    //         },
+    //         {
+    //             breakpoint: 420,
+    //             settings: {
+    //                 slidesToShow: 2
+    //
+    //             }
+    //         }
+    //     ]
+    // });
     // if($(window).scrollTop()> 140){
     //     $('.header-top').addClass("active-fixed");
     // }

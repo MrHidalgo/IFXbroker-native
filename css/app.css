@@ -7231,6 +7231,10 @@ html.mfp-helper body {
   display: block;
 }
 
+.logotype__btn #logotype > path {
+  fill: #fff;
+}
+
 @media only screen and (min-width: 1366px) {
   .sign {
     display: -webkit-box;
