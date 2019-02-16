@@ -1769,6 +1769,8 @@ picture {
 
 /* line 118, src/scss/_components/_about.scss */
 .e-about__text-1 {
+  visibility: hidden !important;
+  opacity: 0 !important;
   padding-bottom: 70px;
 }
 
