@@ -1110,13 +1110,13 @@ transform: scale(1.03,1.03);
 /*-------- LAZY LOAD --------*/
 
 #lz_overlay_wm{
-  margin: 0px 95px 25px 0px !important;
+  margin: 0 25px 25px 0 !important;
 }
 #lz_overlay_chat{
-  margin: 0px 85px 113px 0px !important;
+  margin: 0 25px 113px 0 !important;
 }
 #lz_chat_overlay_pointer_v{
-  right: 112.5px !important;
+  right: 113px !important;
 }
 /*------------------------------------------ INTRODUCING BROCKER ---------------------------------------------*/
 
