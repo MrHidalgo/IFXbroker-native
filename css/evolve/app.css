@@ -1158,6 +1158,11 @@ picture {
           align-items: center;
   min-height: 50px;
 }
+@media screen and (max-width: 767px) {
+  .e-main__row-0 {
+    min-height: 0;
+  }
+}
 
 /* line 36, src/scss/_components/_main.scss */
 .e-main__row-1 {

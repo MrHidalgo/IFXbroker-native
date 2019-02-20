@@ -249,16 +249,16 @@ $(document).ready(function () {
 
   // DROPDOWN MENU
   // ====================
-  $('.menu [menu-js]').hover(function () {
-    if (_window.width() >= 1366) {
-      $(this).find('.menu__dropdown').stop(true, false).delay(0).fadeIn(250);
-    }
-  }, function () {
-    if (_window.width() >= 1366) {
-      $(this).find('.menu__dropdown').stop(true, false).delay(0).fadeOut(250);
-    }
-  });
-  // ====================
+  // $('.menu [menu-js]').hover(function () {
+  //   if (_window.width() >= 1366) {
+  //     $(this).find('.menu__dropdown').stop(true, false).delay(0).fadeIn(250);
+  //   }
+  // }, function () {
+  //   if (_window.width() >= 1366) {
+  //     $(this).find('.menu__dropdown').stop(true, false).delay(0).fadeOut(250);
+  //   }
+  // });
+  // // ====================
 
 
   //

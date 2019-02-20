@@ -2233,8 +2233,18 @@ transform: scale(1.03,1.03);
     height: 50px;
     background: #fff;
     z-index: 2; }
-    .small-fixed-line i {
-      margin: 10px 0 0 10px; }
+    .small-fixed-line a {
+      display: flex;
+      margin-top: 13px;
+      margin-left: 15px;
+    }
+    .small-fixed-line a svg {
+      width: 118px;
+      height: 24px;
+    }
+    .small-fixed-line a svg > g > path {
+      fill: #000;
+    }
   .logo-image {
     display: block;
     position: absolute;
@@ -2684,6 +2694,19 @@ transform: scale(1.03,1.03);
     background-color: transparent;
     color: #000000;
   }
+  header.header--ni.header--evolve .flex-justify nav ul li a {
+    color: #fff;
+    font-size: 16px;
+  }
+  header.header--ni.header--evolve .flex-justify .buttons-account ul li .button.sign-in,
+  header.header--ni.header--evolve .flex-justify .buttons-account ul li .button.account-button {
+    background-color: transparent;
+    color: #fff;
+  }
+}
+
+header.header--ni .flex-justify nav ul li.is-active a {
+  color: #e30813;
 }
 
 body>.body {

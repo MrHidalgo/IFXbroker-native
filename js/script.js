@@ -1,28 +1,33 @@
 $( document ).ready(function() {
 
-    $('.slick').slick({
-        arrows:true,
-        dots:false,
-        autoplay:false,
-        responsive: [
-            {
-                breakpoint: 560,
-                settings: {
-                    arrows:false,
-                    infinite: true,
-                    dots: true
+    if($('.slick').length > 0) {
+        $('.slick').slick({
+            arrows:true,
+            dots:false,
+            autoplay:false,
+            responsive: [
+                {
+                    breakpoint: 560,
+                    settings: {
+                        arrows:false,
+                        infinite: true,
+                        dots: true
+                    }
                 }
-            }
 
-        ]
-    });
+            ]
+        });
+    }
+
     // console.log($('.small-slider'));
-    $('.small-slider').not('.slick-initialized').slick({
-        arrows:false,
-        infinite: true,
-        dots: true,
-        autoplay:true
-    });
+    if($('.small-slider').length > 0) {
+        $('.small-slider').not('.slick-initialized').slick({
+            arrows:false,
+            infinite: true,
+            dots: true,
+            autoplay:true
+        });
+    }
     // $('.partners-list ul').slick({
     //     infinite: true,
     //     slidesToShow: 5,
@@ -87,7 +92,7 @@ $( document ).ready(function() {
         var id = $(this).data('image-id');
         $(this).parents('.start-trading').attr('data','bg'+id);
     });
-    $('.button-link').magnificPopup({
+    $('.button-link, .h-info__btn-0').magnificPopup({
         type: 'inline',
         fixedContentPos: true,
         fixedBgPos: true,
