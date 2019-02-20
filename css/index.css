@@ -2069,12 +2069,13 @@ transform: scale(1.03,1.03);
 
 @media only screen and (max-width: 950px) {
   .header-top {
+    z-index: 1000;
     position: absolute;
     background: #000;
     height: 100%;
     left: -100%;
     width: 100%;
-    transition: all 300ms ease-in-out; }
+    transition: left 300ms ease-in-out; }
     .header-top .container {
       display: flex;
       flex-direction: column-reverse; }
@@ -2685,7 +2686,7 @@ transform: scale(1.03,1.03);
   }
 }
 
-header.header--ni {
+body>.body {
+  z-index: 0;
   position: relative;
-  z-index: 1000;
 }
