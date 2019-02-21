@@ -2709,6 +2709,13 @@ header.header--ni .flex-justify nav ul li.is-active a {
   color: #e30813;
 }
 
+header.header--na .header-top {
+  background-color: #fff;
+}
+header.header--na .header-top .flex-justify {
+  margin-bottom: 0;
+}
+
 body>.body {
   z-index: 0;
   position: relative;
