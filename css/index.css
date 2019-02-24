@@ -1143,6 +1143,35 @@ transform: scale(1.03,1.03);
   color: rgba(255,255,255,0.5);
 }
 
+#intro_broker_first_block>.container .content_block a {
+  max-width: 264px;
+  width: 100%;
+  height: 50px;
+  border-radius: 3px;
+  background-color: #f32430;
+  text-align: center;
+  font-family: SFProText,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 50px;
+  letter-spacing: normal;
+  color: #ffffff;
+  display: inline-block;
+  border: 1px solid #f32430;
+  transition: all 300ms ease-in-out;
+  position: relative;
+  z-index: 2;
+  margin-top: 30px;
+}
+
+#intro_broker_first_block>.container .content_block a:hover {
+  border-color: #ff1d2a;
+  background: #ff1d2a; 
+}
+    
+
 .half_block{
   width: 50%;
 }
@@ -1346,6 +1375,39 @@ transform: scale(1.03,1.03);
 #intro_broker_partnership{
   background-color: #222226;
   color: #FFF;
+}
+
+#intro_broker_partnership .intro_broker_button {
+  text-align: center;
+  padding-top: 40px;
+}
+
+#intro_broker_partnership .intro_broker_button a {
+  max-width: 264px;
+  width: 100%;
+  height: 50px;
+  border-radius: 3px;
+  background-color: #f32430;
+  text-align: center;
+  font-family: SFProText,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 50px;
+  letter-spacing: normal;
+  color: #ffffff;
+  display: inline-block;
+  border: 1px solid #f32430;
+  transition: all 300ms ease-in-out;
+  position: relative;
+  z-index: 2;
+  margin: 0 auto;
+}
+
+#intro_broker_partnership .intro_broker_button a:hover {
+  border-color: #ff1d2a;
+  background: #ff1d2a; 
 }
 
 #intro_broker_partnership .row_block{
@@ -1670,6 +1732,42 @@ transform: scale(1.03,1.03);
   color: #fff;
   padding: 0 0 166px;
   display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+#intro_broker_poty .intro_broker_button {
+  width: 100%;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#intro_broker_poty .intro_broker_button a {
+  max-width: 264px;
+  width: 100%;
+  height: 50px;
+  border-radius: 3px;
+  background-color: #f32430;
+  text-align: center;
+  font-family: SFProText,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 50px;
+  letter-spacing: normal;
+  color: #ffffff;
+  display: inline-block;
+  border: 1px solid #f32430;
+  transition: all 300ms ease-in-out;
+  position: relative;
+  z-index: 2;
+  margin: 0 auto;
+}
+
+#intro_broker_poty .intro_broker_button a:hover {
+  border-color: #ff1d2a;
+  background: #ff1d2a; 
 }
 
 #intro_broker_poty .left_block{
@@ -1743,6 +1841,7 @@ transform: scale(1.03,1.03);
 #intro_broker_not_work .partners_text{
   font-size: 22px;
   margin: 11px 0 74px;
+  font-family: SFProText,sans-serif;
 }
 
 #intro_broker_not_work .partners_text p{
@@ -1752,6 +1851,8 @@ transform: scale(1.03,1.03);
 #intro_broker_not_work .partners_subtitle{
   font-size: 30px;
   margin: 32px 0 23px;
+  font-family: SFProText,sans-serif;
+  font-weight: bold;
 }
 
 #intro_broker_not_work .text_item .text_item_title{
@@ -1773,7 +1874,7 @@ transform: scale(1.03,1.03);
 
 /**     Goodies      **/
 #intro_broker_goodies{
-  background-image: url("../img/introBrokers/goodies_bg.png");
+  background-image: url("../img/introBrokers/goodies_bg_NEW.png");
   height: 1390px;
   background-position: center;
   background-repeat: no-repeat;
