@@ -9,5 +9,6 @@ quotes
 .htaccess
 *.xml
 *.scss
+*.zip
 
 quotes.js
