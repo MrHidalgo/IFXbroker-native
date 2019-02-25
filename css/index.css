@@ -2821,3 +2821,8 @@ body>.body {
   z-index: 0;
   position: relative;
 }
+
+
+div#livezilla_wm {
+  background-color: #e30813 !important;
+}
