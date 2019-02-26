@@ -2795,6 +2795,12 @@ transform: scale(1.03,1.03);
     background-color: transparent;
     color: #000000;
   }
+
+  header.header--ni .flex-justify .buttons-account ul li .button.sign-in:hover,
+  header.header--ni .flex-justify .buttons-account ul li .button.account-button:hover {
+    color: #e30813;
+  }
+
   header.header--ni.header--evolve .flex-justify nav ul li a {
     color: #fff;
     font-size: 16px;
@@ -2807,6 +2813,10 @@ transform: scale(1.03,1.03);
 }
 
 header.header--ni .flex-justify nav ul li.is-active a {
+  color: #e30813;
+}
+
+header.header--ni .flex-justify nav ul li a:hover {
   color: #e30813;
 }
 
