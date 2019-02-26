@@ -1962,6 +1962,31 @@ body #fp-nav.right {
   background-color: #000
 }
 
+.a-team__slider .swiper-slide--pieter {
+  background-image: url('../../img/newAbout/img-a-swiper-slide-pieter@2x.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.a-team__slider .swiper-slide--thula {
+  background-image: url('../../img/newAbout/img-a-swiper-slide-thula@2x.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.a-team__slider .swiper-slide--hannele {
+  background-image: url('../../img/newAbout/img-a-swiper-slide-hannele@2x.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.a-team__slider .swiper-slide--ian {
+  background-image: url('../../img/newAbout/img-a-swiper-slide-ian@2x.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .a-team__slider .swiper-slide-info {
   padding-bottom: 20px
 }

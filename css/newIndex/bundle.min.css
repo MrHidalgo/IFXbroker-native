@@ -1045,7 +1045,8 @@ picture {
 
 @media screen and (max-width: 767px) {
   .h-main {
-    min-height: auto
+    min-height: auto;
+    background-position: center !important;
   }
 
   .h-main__title br:last-of-type {

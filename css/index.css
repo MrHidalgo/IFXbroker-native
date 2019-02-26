@@ -2813,6 +2813,9 @@ header.header--ni .flex-justify nav ul li.is-active a {
 header.header--na .header-top {
   background-color: #fff;
 }
+.is_opened header.header--na .header-top {
+  background-color: #000;
+}
 header.header--na .header-top .flex-justify {
   margin-bottom: 0;
 }

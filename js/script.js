@@ -110,20 +110,21 @@ $( document ).ready(function() {
         }
     });
 
-    if ($(window).width() < 950) {
-        $('.menu__item > a').click(function (e) {
-            if($(this).next('.menu__dropdown')){                
-                if( $(this).hasClass('button') ){console.log('yes');}else{
-                    console.log($(this));
-                    e.preventDefault();
-                    $(this).next('.menu__dropdown').toggleClass('active');
-                }
-            }else {
-                
-            }
-
-        })
-    }
+    // if ($(window).width() < 950) {
+    //     $('.menu__item > a').click(function (e) {
+    //         if($(this).next('.menu__dropdown')){
+    //             if( $(this).hasClass('button') )
+    //             {console.log('yes');}else{
+    //                 console.log($(this));
+    //                 e.preventDefault();
+    //                 $(this).next('.menu__dropdown').toggleClass('active');
+    //             }
+    //         }else {
+    //
+    //         }
+    //
+    //     })
+    // }
 
 
 });
