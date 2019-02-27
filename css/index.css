@@ -2835,7 +2835,153 @@ body>.body {
   position: relative;
 }
 
-
 div#livezilla_wm {
   background-color: #e30813 !important;
+}
+
+@font-face {
+  font-family: iconFontFooter;
+  src:
+    url(../fonts/iconFont.eot);
+  src:
+    url(../fonts/iconFont.eot?#iefix) format("eot"),
+    url(../fonts/iconFont.woff2) format("woff2"),
+    url(../fonts/iconFont.woff) format("woff"),
+    url(../fonts/iconFont.ttf) format("truetype"),
+    url(../fonts/iconFont.svg#iconFont) format("svg")
+}
+
+.icon-why-license:before,
+.icon-why-profile:before {
+  font-family: iconFontFooter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: none
+}
+
+.icon-why-license:before {
+  content: ""
+}
+.icon-why-profile:before {
+  content: ""
+}
+
+.h-why__info {
+  display: flex;
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  -o-transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+  transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out
+}
+
+.h-why__info a, .h-why__info a > div:nth-of-type(1) {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox
+}
+
+.h-why__info a {
+  display: flex;
+  width: 100%;
+  max-width: 220px;
+  min-height: 70px;
+  margin-left: 10px;
+  margin-right: 10px;
+  -webkit-transition: background-color .3s ease-in-out;
+  -o-transition: background-color .3s ease-in-out;
+  transition: background-color .3s ease-in-out
+}
+
+@media screen and (max-width: 767px) {
+  .h-why__info {
+    /*position: static;*/
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-transform: translate(0);
+    -ms-transform: translate(0);
+    transform: translate(0);
+    width: 100%
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .h-why__info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .h-why__info a {
+    max-width: 100%;
+    min-height: 75px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .h-why__info a:nth-of-type(1) {
+    margin-bottom: 10px;
+  }
+}
+
+.h-why__info a:hover {
+  transition: background-color .3s ease-in-out
+}
+
+.h-why__info a {
+  background-color: #20202A;
+}
+
+.h-why__info a > div:nth-of-type(1) {
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 60px
+}
+
+.h-why__info a > div:nth-of-type(2) {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  min-width: 1px;
+  max-width: 100%;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.h-why__info a .icon-font {
+  color: #fff;
+  font-size: 20px
+}
+
+.h-why__info a span {
+  color: #FFF;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: 'SF Pro Text', sans-serif;
+  letter-spacing: 0;
 }

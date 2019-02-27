@@ -2,8 +2,14 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800|Rajdhani:400,500,600,700");
 @font-face {
   font-family: "iconFont";
-  src: url("../../fonts/evolve/iconFont.eot");
-  src: url("../../fonts/evolve/iconFont.eot?#iefix") format("eot"), url("../../fonts/evolve/iconFont.woff2") format("woff2"), url("../../fonts/evolve/iconFont.woff") format("woff"), url("../../fonts/evolve/iconFont.ttf") format("truetype"), url("../../fonts/evolve/iconFont.svg#iconFont") format("svg");
+  src:
+    url("../../fonts/evolve/iconFont.eot");
+  src:
+    url("../../fonts/evolve/iconFont.eot?#iefix") format("eot"),
+    url("../../fonts/evolve/iconFont.woff2") format("woff2"),
+    url("../../fonts/evolve/iconFont.woff") format("woff"),
+    url("../../fonts/evolve/iconFont.ttf") format("truetype"),
+    url("../../fonts/evolve/iconFont.svg#iconFont") format("svg");
 }
 
 /* line 23, src/scss/_generated/_spriteFont.scss */

@@ -804,8 +804,14 @@ body, body > .body {
 
 @font-face {
   font-family: iconFont;
-  src: url(../../fonts/newIndex/iconFont.eot);
-  src: url(../../fonts/newIndex/iconFont.eot?#iefix) format("eot"), url(../../fonts/newIndex/iconFont.woff2) format("woff2"), url(../../fonts/newIndex/iconFont.woff) format("woff"), url(../../fonts/newIndex/iconFont.ttf) format("truetype"), url(../../fonts/newIndex/iconFont.svg#iconFont) format("svg")
+  src:
+    url(../../fonts/newIndex/iconFont.eot);
+  src:
+    url(../../fonts/newIndex/iconFont.eot?#iefix) format("eot"),
+    url(../../fonts/newIndex/iconFont.woff2) format("woff2"),
+    url(../../fonts/newIndex/iconFont.woff) format("woff"),
+    url(../../fonts/newIndex/iconFont.ttf) format("truetype"),
+    url(../../fonts/newIndex/iconFont.svg#iconFont) format("svg")
 }
 
 .icon-chevron:before, .icon-museum:before, .icon-why-join:before, .icon-why-license:before, .icon-why-profile:before, .icon-why-xxx:before {
