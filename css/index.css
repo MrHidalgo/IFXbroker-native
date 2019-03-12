@@ -1162,7 +1162,6 @@ transform: scale(1.03,1.03);
   border: 1px solid #f32430;
   transition: all 300ms ease-in-out;
   position: relative;
-  z-index: 2;
   margin-top: 30px;
 }
 
@@ -1401,7 +1400,6 @@ transform: scale(1.03,1.03);
   border: 1px solid #f32430;
   transition: all 300ms ease-in-out;
   position: relative;
-  z-index: 2;
   margin: 0 auto;
 }
 
@@ -2984,4 +2982,17 @@ div#livezilla_wm {
   line-height: 20px;
   font-family: 'SF Pro Text', sans-serif;
   letter-spacing: 0;
+}
+
+
+.header--ni .header-top.active-fixed {
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  padding-bottom: 0;
+  transition: background-color 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
+}
+.header--ni.header--evolve .header-top.active-fixed {
+  background-color: #000000;
+  transition: background-color 0.3s ease-in-out;
 }
