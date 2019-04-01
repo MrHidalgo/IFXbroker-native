@@ -92,23 +92,26 @@ $( document ).ready(function() {
         var id = $(this).data('image-id');
         $(this).parents('.start-trading').attr('data','bg'+id);
     });
-    $('.button-link, .h-info__btn-0').magnificPopup({
-        type: 'inline',
-        fixedContentPos: true,
-        fixedBgPos: true,
-        overflowY: 'auto',
-        closeBtnInside: true,
-        preloader: false,
-        midClick: true,
-        removalDelay: 300,
-        mainClass: 'mfp-fade',
-        callbacks: {
-            beforeOpen: function beforeOpen() {
-                this.st.mainClass = this.st.el.attr('data-effect');
-            },
-            close: function close() {}
-        }
-    });
+
+    if($('.button-link, .h-info__btn-0').length > 0) {
+        $('.button-link, .h-info__btn-0').magnificPopup({
+            type: 'inline',
+            fixedContentPos: true,
+            fixedBgPos: true,
+            overflowY: 'auto',
+            closeBtnInside: true,
+            preloader: false,
+            midClick: true,
+            removalDelay: 300,
+            mainClass: 'mfp-fade',
+            callbacks: {
+                beforeOpen: function beforeOpen() {
+                    this.st.mainClass = this.st.el.attr('data-effect');
+                },
+                close: function close() {}
+            }
+        });
+    }
 
     // if ($(window).width() < 950) {
     //     $('.menu__item > a').click(function (e) {
