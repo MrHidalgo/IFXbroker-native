@@ -1481,6 +1481,7 @@ transform: scale(1.03,1.03);
   font-size: 12px;
   font-weight: bold;
   color: rgba(255,255,255,0.5);
+  font-family: 'SFProText', 'Open Sans', sans-serif;
 }
 
 .masonry_block>div:last-child tr td{
@@ -1526,7 +1527,7 @@ transform: scale(1.03,1.03);
   align-self: center;
 }
 #intro_broker_strategies .strategy_content{
-  font-family: SFProText,sans-serif;
+  font-family: 'SFProText', 'Open Sans', sans-serif;
   font-size: 16px;
 }
 
@@ -1577,6 +1578,7 @@ transform: scale(1.03,1.03);
 
 #intro_broker_partners .partners_description{
   margin: 0 0 37px;
+  font-family: 'SFProText', 'Open Sans', sans-serif;
 }
 
 #intro_broker_partners #partners_menu{
@@ -1688,6 +1690,7 @@ transform: scale(1.03,1.03);
 #intro_broker_rewards .partners_text{
   font-size: 22px;
   margin: 11px 0 43px;
+  font-family: 'SFProText', 'Open Sans', sans-serif;
 }
 
 #intro_broker_rewards .partners_description{
@@ -1788,6 +1791,7 @@ transform: scale(1.03,1.03);
 #intro_broker_poty .partners_text{
   font-size: 22px;
   margin: 11px 0 43px;
+  font-family: 'SFProText', 'Open Sans', sans-serif;
 }
 
 #intro_broker_poty .partners_text p{
@@ -1839,7 +1843,7 @@ transform: scale(1.03,1.03);
 #intro_broker_not_work .partners_text{
   font-size: 22px;
   margin: 11px 0 74px;
-  font-family: SFProText,sans-serif;
+  font-family: 'SFProText', 'Open Sans', sans-serif;
 }
 
 #intro_broker_not_work .partners_text p{
@@ -1950,7 +1954,7 @@ transform: scale(1.03,1.03);
 .get_start_text{
   font-size: 22px;
   margin-bottom: 60px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'SFProText', 'Open Sans', sans-serif;
 }
 
 .get_start_text p{
@@ -1987,6 +1991,7 @@ transform: scale(1.03,1.03);
   display: flex;
   flex-wrap: wrap;
   width: 100%;
+  font-family: 'SFProText', 'Open Sans', sans-serif;
 }
 
 .get_start_step .gss_content span{
