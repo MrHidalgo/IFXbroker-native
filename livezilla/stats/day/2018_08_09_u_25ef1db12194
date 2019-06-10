@@ -1,0 +1,1011 @@
+<br><br>
+<table cellpadding="0" cellspacing="0" align="center" style="min-width:900px;">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_visitors--></td>
+					<td class="header_line" align="right"><script>document.write(new Date(2018,7,9,0, 00, 00, 0).toLocaleDateString());</script></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;30 <!--lang_stats_visitors--> (<em>unique</em>)</td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_pages--></td>
+					<td class="bt_column_header" width="80" align="center"><!--lang_stats_entrance--></td>
+					<td class="bt_column_header" width="100" align="center"><!--lang_stats_exit--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_country--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_city--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_system--></td>
+					<td class="bt_column_header" width="25">&nbsp;</td>
+				</tr>
+				<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_1');"><b>1</b></a></td>
+    <td align="center">00:01:41</td>
+    <td align="center">00:13:20</td>
+    <td NOWRAP>Cyprus</td>
+    <td NOWRAP>Nicosia</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','2','1','139.138.xxx.xxx','139.138.xxx.xxx','6912f4c9a8',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_11">
+		<td align="center">1</td>
+		<td align="center">00:01:41</td>
+		<td align="center">00:01:41</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_2');"><b>1</b></a></td>
+    <td align="center">01:05:36</td>
+    <td align="center">01:10:22</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Pretoria</td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','2','1','41.13.xxx.xxx','vc-nat-gp-n-41-13-124-44.umts.vodacom.co.za','47b74c96bf',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_21">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">01:05:36</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://m.facebook.com/" target="_blank"><b>https://m.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_22">
+		<td align="center">1</td>
+		<td align="center">01:05:36</td>
+		<td align="center">01:07:50</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_3');"><b>1</b></a></td>
+    <td align="center">01:30:17</td>
+    <td align="center">02:06:05</td>
+    <td NOWRAP>United States</td>
+    <td NOWRAP>Mountain View</td>
+    <td NOWRAP>Linux</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','66.249.xxx.xxx','google-proxy-66-249-83-93.google.com','f90dec03f2',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_31">
+		<td align="center">1</td>
+		<td align="center">01:30:17</td>
+		<td align="center">01:30:17</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/openLiveAccount.html" target="_blank"><b>https://ifxbrokers.com/openLiveAccount.html</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_4');"><b>1</b></a></td>
+    <td align="center">05:42:00</td>
+    <td align="center">06:58:32</td>
+    <td NOWRAP>United States</td>
+    <td NOWRAP>Menlo Park</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','66.220.xxx.xxx','66.220.xxx.xxx','6d64422959',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_41">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">05:42:00</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://l.facebook.com/l.php?u=https://www.ifxbrokers.com/learn.html#theifxacademy&amp;h=AT0HGrEhuglaqUkCZ__YDuEUzGXRCCG75QdIDr8AX-gi-1ylFsWd9UVfU3E4y0MlSwLMLAIpRFXQc0E5V9-VuYJR4mqx07_nWbvKupqWD8za5S6IN_kcQoGK4mdqRx8YQSm6wmesGUIfDA" target="_blank"><b>https://l.facebook.com/l.php?u=https://www.ifxbrokers.com/learn.html#theifxacademy&amp;h=AT0HGrEhuglaqUkCZ__YDuEUzGXRCCG75QdIDr8AX-gi-1ylFsWd9UVfU3E4y0MlSwLMLAIpRFXQc0E5V9-VuYJR4mqx07_nWbvKupqWD8za5S6IN_kcQoGK4mdqRx8YQSm6wmesGUIfDA</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_42">
+		<td align="center">1</td>
+		<td align="center">05:42:00</td>
+		<td align="center">05:42:00</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_5');"><b>1</b></a></td>
+    <td align="center">06:58:33</td>
+    <td align="center">08:54:03</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Umhlanga</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','5','1','41.146.xxx.xxx','8ta-147-187-76.telkomadsl.co.za','f5cd82f95a',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_51">
+		<td align="center">1</td>
+		<td align="center">06:58:33</td>
+		<td align="center">06:59:36</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/onlineTrading.html#ourbespoketradingaccounts" target="_blank"><b>https://www.ifxbrokers.com/onlineTrading.html#ourbespoketradingaccounts</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_6');"><b>1</b></a></td>
+    <td align="center">08:54:04</td>
+    <td align="center">09:44:58</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Cape Town</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','5','1','165.165.xxx.xxx','165.165.xxx.xxx','11927b254a',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_61">
+		<td align="center">1</td>
+		<td align="center">08:54:04</td>
+		<td align="center">09:32:25</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_7');"><b>31</b></a></td>
+    <td align="center">09:13:59</td>
+    <td align="center">09:28:50</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Johannesburg</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','4','1','165.165.xxx.xxx','165.165.xxx.xxx','e5e463dfde',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_71">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">09:13:59</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_72">
+		<td align="center">1</td>
+		<td align="center">09:13:59</td>
+		<td align="center">09:15:30</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/index.html" target="_blank"><b>https://www.ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_73">
+		<td align="center">2</td>
+		<td align="center">09:15:30</td>
+		<td align="center">09:15:50</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/openLiveAccount.html" target="_blank"><b>https://www.ifxbrokers.com/openLiveAccount.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_74">
+		<td align="center">3</td>
+		<td align="center">09:15:50</td>
+		<td align="center">09:16:02</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/openLiveAccount.html" target="_blank"><b>https://www.ifxbrokers.com/openLiveAccount.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_75">
+		<td align="center">4</td>
+		<td align="center">09:16:02</td>
+		<td align="center">09:15:23</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/index.html" target="_blank"><b>https://www.ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_76">
+		<td align="center">5</td>
+		<td align="center">09:15:23</td>
+		<td align="center">09:15:46</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/about.html#ourpartners" target="_blank"><b>https://www.ifxbrokers.com/about.html#ourpartners</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_77">
+		<td align="center">6</td>
+		<td align="center">09:15:46</td>
+		<td align="center">09:14:12</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/about.html#ourpartners" target="_blank"><b>https://www.ifxbrokers.com/about.html#ourpartners</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_78">
+		<td align="center">7</td>
+		<td align="center">09:14:12</td>
+		<td align="center">09:14:54</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_79">
+		<td align="center">8</td>
+		<td align="center">09:14:54</td>
+		<td align="center">09:15:56</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/tradingTools.html#autochartist" target="_blank"><b>https://www.ifxbrokers.com/tradingTools.html#autochartist</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_710">
+		<td align="center">9</td>
+		<td align="center">09:15:56</td>
+		<td align="center">09:26:32</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/about.html#ourpartners" target="_blank"><b>https://www.ifxbrokers.com/about.html#ourpartners</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_711">
+		<td align="center">10</td>
+		<td align="center">19:28:06</td>
+		<td align="center">19:49:48</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/infoCentre.html" target="_blank"><b>https://ifxbrokers.com/infoCentre.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_712">
+		<td align="center">11</td>
+		<td align="center">19:49:48</td>
+		<td align="center">23:05:07</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/index.html" target="_blank"><b>https://ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_713">
+		<td align="center">12</td>
+		<td align="center">23:05:07</td>
+		<td align="center">20:18:14</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/index.html" target="_blank"><b>https://ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_714">
+		<td align="center">13</td>
+		<td align="center">20:18:14</td>
+		<td align="center">23:30:02</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/about.html" target="_blank"><b>https://ifxbrokers.com/about.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_715">
+		<td align="center">14</td>
+		<td align="center">23:30:02</td>
+		<td align="center">19:25:46</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/about.html" target="_blank"><b>https://ifxbrokers.com/about.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_716">
+		<td align="center">15</td>
+		<td align="center">19:25:46</td>
+		<td align="center">19:30:07</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/" target="_blank"><b>https://ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_717">
+		<td align="center">16</td>
+		<td align="center">19:30:07</td>
+		<td align="center">00:59:25</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/" target="_blank"><b>https://ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_718">
+		<td align="center">17</td>
+		<td align="center">21:12:34</td>
+		<td align="center">00:59:27</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_719">
+		<td align="center">18</td>
+		<td align="center">23:31:08</td>
+		<td align="center">23:35:56</td>
+		<td colspan="4"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_720">
+		<td align="center">19</td>
+		<td align="center">23:35:56</td>
+		<td align="center">00:59:05</td>
+		<td colspan="4"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/infoCentre.html" target="_blank"><b>https://www.ifxbrokers.com/infoCentre.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_721">
+		<td align="center">20</td>
+		<td align="center">00:16:15</td>
+		<td align="center">00:16:47</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_722">
+		<td align="center">21</td>
+		<td align="center">00:16:47</td>
+		<td align="center">00:25:33</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/partnership.html" target="_blank"><b>https://www.ifxbrokers.com/partnership.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_723">
+		<td align="center">22</td>
+		<td align="center">00:25:33</td>
+		<td align="center">00:18:34</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/index.html" target="_blank"><b>https://www.ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_724">
+		<td align="center">23</td>
+		<td align="center">00:18:34</td>
+		<td align="center">00:27:56</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/onlineTrading.html" target="_blank"><b>https://www.ifxbrokers.com/onlineTrading.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_725">
+		<td align="center">24</td>
+		<td align="center">00:27:56</td>
+		<td align="center">00:16:58</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/onlineTrading.html" target="_blank"><b>https://www.ifxbrokers.com/onlineTrading.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_726">
+		<td align="center">25</td>
+		<td align="center">00:16:58</td>
+		<td align="center">00:59:26</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/index.html" target="_blank"><b>https://www.ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_727">
+		<td align="center">26</td>
+		<td align="center">00:25:57</td>
+		<td align="center">00:25:57</td>
+		<td colspan="4"><!--lang_stats_browser--> 6:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/register.html" target="_blank"><b>https://www.ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_728">
+		<td align="center">27</td>
+		<td align="center">00:26:05</td>
+		<td align="center">00:26:05</td>
+		<td colspan="4"><!--lang_stats_browser--> 7:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/register.html" target="_blank"><b>https://www.ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_729">
+		<td align="center">28</td>
+		<td align="center">00:26:26</td>
+		<td align="center">00:26:26</td>
+		<td colspan="4"><!--lang_stats_browser--> 8:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/register.html" target="_blank"><b>https://www.ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_730">
+		<td align="center">29</td>
+		<td align="center">00:26:34</td>
+		<td align="center">00:26:34</td>
+		<td colspan="4"><!--lang_stats_browser--> 9:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/register.html" target="_blank"><b>https://www.ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_731">
+		<td align="center">30</td>
+		<td align="center">00:26:40</td>
+		<td align="center">00:26:40</td>
+		<td colspan="4"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/login.html" target="_blank"><b>https://www.ifxbrokers.com/login.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_732">
+		<td align="center">31</td>
+		<td align="center">00:26:52</td>
+		<td align="center">00:26:52</td>
+		<td colspan="4"><!--lang_stats_browser--> 11:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/register.html" target="_blank"><b>https://www.ifxbrokers.com/register.html</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_8');"><b>5</b></a></td>
+    <td align="center">10:02:19</td>
+    <td align="center">15:56:57</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Johannesburg</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','7','1','165.165.xxx.xxx','165.165.xxx.xxx','4ca79e2585',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_81">
+		<td align="center">1</td>
+		<td align="center">10:02:19</td>
+		<td align="center">10:02:33</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_82">
+		<td align="center">2</td>
+		<td align="center">10:02:33</td>
+		<td align="center">10:25:44</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html" target="_blank"><b>https://www.ifxbrokers.com/learn.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_83">
+		<td align="center">3</td>
+		<td align="center">10:11:27</td>
+		<td align="center">10:25:27</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_84">
+		<td align="center">4</td>
+		<td align="center">10:38:44</td>
+		<td align="center">11:01:15</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_85">
+		<td align="center">5</td>
+		<td align="center">15:47:31</td>
+		<td align="center">15:53:32</td>
+		<td colspan="4"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_9');"><b>5</b></a></td>
+    <td align="center">10:10:53</td>
+    <td align="center">12:22:00</td>
+    <td NOWRAP>Cyprus</td>
+    <td NOWRAP>Nicosia</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','212.50.xxx.xxx','bcable.niw.cablenet-as.net','d495d6a639',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_91">
+		<td align="center">1</td>
+		<td align="center">10:10:53</td>
+		<td align="center">10:13:58</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_92">
+		<td align="center">2</td>
+		<td align="center">10:13:45</td>
+		<td align="center">10:14:15</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_93">
+		<td align="center">3</td>
+		<td align="center">10:14:25</td>
+		<td align="center">10:18:40</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_94">
+		<td align="center">4</td>
+		<td align="center">10:18:40</td>
+		<td align="center">10:18:28</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_95">
+		<td align="center">5</td>
+		<td align="center">10:18:28</td>
+		<td align="center">12:18:31</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/login.html" target="_blank"><b>https://ifxbrokers.com/login.html</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_10');"><b>2</b></a></td>
+    <td align="center">10:17:19</td>
+    <td align="center">10:20:04</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Pretoria</td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','41.13.xxx.xxx','vc-nat-gp-n-41-13-74-209.umts.vodacom.co.za','091560f62d',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_101">
+		<td align="center">1</td>
+		<td align="center">10:17:19</td>
+		<td align="center">10:17:19</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_102">
+		<td align="center">2</td>
+		<td align="center">10:17:30</td>
+		<td align="center">10:17:30</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_11');"><b>2</b></a></td>
+    <td align="center">10:17:20</td>
+    <td align="center">10:20:04</td>
+    <td NOWRAP>Germany</td>
+    <td NOWRAP>Berlin</td>
+    <td NOWRAP>Windows 8.1</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','88.99.xxx.xxx','static.83.145.99.88.clients.your-server.de','2f2bbd47d2',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_111">
+		<td align="center">1</td>
+		<td align="center">10:17:20</td>
+		<td align="center">10:17:50</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_112">
+		<td align="center">2</td>
+		<td align="center">10:17:21</td>
+		<td align="center">10:17:21</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_12');"><b>1</b></a></td>
+    <td align="center">10:17:20</td>
+    <td align="center">10:20:04</td>
+    <td NOWRAP>Germany</td>
+    <td NOWRAP>Berlin</td>
+    <td NOWRAP>Windows 8.1</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','88.99.xxx.xxx','static.83.145.99.88.clients.your-server.de','981ab113b0',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_121">
+		<td align="center">1</td>
+		<td align="center">10:17:20</td>
+		<td align="center">10:17:20</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_13');"><b>1</b></a></td>
+    <td align="center">10:18:35</td>
+    <td align="center">10:22:08</td>
+    <td NOWRAP>Germany</td>
+    <td NOWRAP>Berlin</td>
+    <td NOWRAP>Windows 8.1</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','88.99.xxx.xxx','static.83.145.99.88.clients.your-server.de','1cd0057bfa',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_131">
+		<td align="center">1</td>
+		<td align="center">10:18:35</td>
+		<td align="center">10:19:05</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_14');"><b>1</b></a></td>
+    <td align="center">10:18:35</td>
+    <td align="center">10:22:08</td>
+    <td NOWRAP>Germany</td>
+    <td NOWRAP>Berlin</td>
+    <td NOWRAP>Windows 8.1</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','88.99.xxx.xxx','static.83.145.99.88.clients.your-server.de','4521298986',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_141">
+		<td align="center">1</td>
+		<td align="center">10:18:35</td>
+		<td align="center">10:19:05</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_15');"><b>1</b></a></td>
+    <td align="center">10:19:04</td>
+    <td align="center">16:56:52</td>
+    <td NOWRAP>Cyprus</td>
+    <td NOWRAP>Nicosia</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','212.50.xxx.xxx','bcable.niw.cablenet-as.net','e0dc8771b1',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_151">
+		<td align="center">1</td>
+		<td align="center">10:19:04</td>
+		<td align="center">16:53:47</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_16');"><b>10</b></a></td>
+    <td align="center">10:37:29</td>
+    <td align="center">17:09:02</td>
+    <td NOWRAP>Cyprus</td>
+    <td NOWRAP>Limassol</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','185.175.xxx.xxx','185.175.xxx.xxx','f7e7a282b3',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_161">
+		<td align="center">1</td>
+		<td align="center">10:37:29</td>
+		<td align="center">10:46:29</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_162">
+		<td align="center">2</td>
+		<td align="center">10:46:58</td>
+		<td align="center">13:53:21</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_163">
+		<td align="center">3</td>
+		<td align="center">13:53:42</td>
+		<td align="center">16:22:10</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_164">
+		<td align="center">4</td>
+		<td align="center">16:22:10</td>
+		<td align="center">13:58:08</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_165">
+		<td align="center">5</td>
+		<td align="center">13:58:08</td>
+		<td align="center">16:38:09</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/about.html#whoweare" target="_blank"><b>https://www.ifxbrokers.com/about.html#whoweare</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_166">
+		<td align="center">6</td>
+		<td align="center">16:38:09</td>
+		<td align="center">16:20:15</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/about.html" target="_blank"><b>https://www.ifxbrokers.com/about.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_167">
+		<td align="center">7</td>
+		<td align="center">16:20:15</td>
+		<td align="center">16:38:54</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/index.html" target="_blank"><b>https://www.ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_168">
+		<td align="center">8</td>
+		<td align="center">16:38:54</td>
+		<td align="center">17:05:54</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/openLiveAccount.html" target="_blank"><b>https://www.ifxbrokers.com/openLiveAccount.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_169">
+		<td align="center">9</td>
+		<td align="center">16:17:34</td>
+		<td align="center">16:19:36</td>
+		<td colspan="4"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/register.html" target="_blank"><b>https://ifxbrokers.com/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_1610">
+		<td align="center">10</td>
+		<td align="center">16:17:40</td>
+		<td align="center">16:19:42</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/login.html" target="_blank"><b>https://ifxbrokers.com/login.html</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_17');"><b>1</b></a></td>
+    <td align="center">11:04:29</td>
+    <td align="center">11:22:04</td>
+    <td NOWRAP>Thailand</td>
+    <td NOWRAP>Bangkok</td>
+    <td NOWRAP>macOS 10.13 (High Sierra)</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','101.109.xxx.xxx','node-vd0.pool-101-109.dynamic.totbb.net','28258df41c',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_171">
+		<td align="center">1</td>
+		<td align="center">11:04:29</td>
+		<td align="center">11:18:24</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_18');"><b>2</b></a></td>
+    <td align="center">11:21:12</td>
+    <td align="center">11:32:19</td>
+    <td NOWRAP>Russia</td>
+    <td NOWRAP>St Petersburg</td>
+    <td NOWRAP>Windows 8.1</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','93.187.xxx.xxx','252-189-187-93.customer.senator-telecom.com','2429439915',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_181">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">11:23:39</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_182">
+		<td align="center">1</td>
+		<td align="center">11:23:39</td>
+		<td align="center">11:21:12</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/contacts.html#main" target="_blank"><b>https://www.ifxbrokers.com/contacts.html#main</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_183">
+		<td align="center">2</td>
+		<td align="center">11:21:12</td>
+		<td align="center">11:28:47</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_19');"><b>3</b></a></td>
+    <td align="center">11:30:24</td>
+    <td align="center">17:36:09</td>
+    <td NOWRAP>Cyprus</td>
+    <td NOWRAP>Nicosia</td>
+    <td NOWRAP>Windows 8.1</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','212.50.xxx.xxx','bcable.niw.cablenet-as.net','3713962dee',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_191">
+		<td align="center">1</td>
+		<td align="center">11:30:24</td>
+		<td align="center">11:31:06</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/" target="_blank"><b>https://ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_192">
+		<td align="center">2</td>
+		<td align="center">11:31:06</td>
+		<td align="center">11:31:14</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/about.html#ourdirectors" target="_blank"><b>https://ifxbrokers.com/about.html#ourdirectors</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_193">
+		<td align="center">3</td>
+		<td align="center">11:31:14</td>
+		<td align="center">17:32:52</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/depositsWithdrawals.html" target="_blank"><b>https://ifxbrokers.com/depositsWithdrawals.html</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_20');"><b>2</b></a></td>
+    <td align="center">12:07:29</td>
+    <td align="center">12:11:40</td>
+    <td NOWRAP>Thailand</td>
+    <td NOWRAP>Lopburi</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','161.246.xxx.xxx','161.246.xxx.xxx','27033f81f4',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_201">
+		<td align="center">1</td>
+		<td align="center">12:07:29</td>
+		<td align="center">12:07:58</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/" target="_blank"><b>https://ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_202">
+		<td align="center">2</td>
+		<td align="center">12:08:03</td>
+		<td align="center">12:08:35</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/" target="_blank"><b>https://ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_21');"><b>2</b></a></td>
+    <td align="center">15:17:49</td>
+    <td align="center">15:52:47</td>
+    <td NOWRAP>Nigeria</td>
+    <td NOWRAP>Lagos</td>
+    <td NOWRAP>Windows 8.1</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','3','1','197.211.xxx.xxx','197.211.xxx.xxx','e4fef1a0fe',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_211">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">15:17:49</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.facebook.com/" target="_blank"><b>https://www.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_212">
+		<td align="center">1</td>
+		<td align="center">15:17:49</td>
+		<td align="center">15:48:49</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_213">
+		<td align="center">2</td>
+		<td align="center">00:03:41</td>
+		<td align="center">00:17:38</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_22');"><b>5</b></a></td>
+    <td align="center">15:26:28</td>
+    <td align="center">15:38:21</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Durban</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','2','1','41.13.xxx.xxx','vc-gp-n-41-13-164-58.umts.vodacom.co.za','65dde74c0d',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_221">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">15:26:28</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://web.facebook.com/" target="_blank"><b>https://web.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_222">
+		<td align="center">1</td>
+		<td align="center">15:26:28</td>
+		<td align="center">15:26:28</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_223">
+		<td align="center">2</td>
+		<td align="center">15:27:08</td>
+		<td align="center">15:30:10</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_224">
+		<td align="center">3</td>
+		<td align="center">15:29:53</td>
+		<td align="center">15:30:04</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_225">
+		<td align="center">4</td>
+		<td align="center">15:30:26</td>
+		<td align="center">15:30:38</td>
+		<td colspan="4"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_226">
+		<td align="center">5</td>
+		<td align="center">15:32:49</td>
+		<td align="center">15:34:22</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_23');"><b>1</b></a></td>
+    <td align="center">15:29:00</td>
+    <td align="center">15:32:09</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Johannesburg</td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','105.8.xxx.xxx','105.8.xxx.xxx','d12bce2c59',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_231">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">15:29:00</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.ifxbrokers.com%2F&amp;h=AT3onoQTuYaJP7fK6qJunEfcRmYpLQz6HV7y0TLqYzM2EdrnURmaTMJdRfbJYBThSjB-Tzvtc_Z6-K-3wool3lVlxedubhpahjwU01sdno6mJkXKmnw4CniDiI5jNO4hSGXHmI0Avzql0nYgjmKOhZA" target="_blank"><b>https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.ifxbrokers.com%2F&amp;h=AT3onoQTuYaJP7fK6qJunEfcRmYpLQz6HV7y0TLqYzM2EdrnURmaTMJdRfbJYBThSjB-Tzvtc_Z6-K-3wool3lVlxedubhpahjwU01sdno6mJkXKmnw4CniDiI5jNO4hSGXHmI0Avzql0nYgjmKOhZA</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_232">
+		<td align="center">1</td>
+		<td align="center">15:29:00</td>
+		<td align="center">15:29:00</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_24');"><b>1</b></a></td>
+    <td align="center">15:35:48</td>
+    <td align="center">16:05:13</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Worcester</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','197.229.xxx.xxx','8ta-229-1-131.telkomadsl.co.za','4bdf8b70a2',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_241">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">15:35:48</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.facebook.com/" target="_blank"><b>https://www.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_242">
+		<td align="center">1</td>
+		<td align="center">15:35:48</td>
+		<td align="center">16:03:00</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://www.ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_25');"><b>2</b></a></td>
+    <td align="center">15:53:59</td>
+    <td align="center">16:25:47</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Johannesburg</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','2','1','165.165.xxx.xxx','165.165.xxx.xxx','5b11f16a45',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_251">
+		<td align="center">1</td>
+		<td align="center">15:53:59</td>
+		<td align="center">15:55:59</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_252">
+		<td align="center">2</td>
+		<td align="center">16:21:09</td>
+		<td align="center">16:22:39</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_26');"><b>1</b></a></td>
+    <td align="center">16:22:32</td>
+    <td align="center">16:25:47</td>
+    <td NOWRAP>Cyprus</td>
+    <td NOWRAP>Limassol</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','185.175.xxx.xxx','185.175.xxx.xxx','e7af0ba797',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_261">
+		<td align="center">1</td>
+		<td align="center">16:22:32</td>
+		<td align="center">16:23:03</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_27');"><b>1</b></a></td>
+    <td align="center">16:23:19</td>
+    <td align="center">16:38:17</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Johannesburg</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','165.165.xxx.xxx','165.165.xxx.xxx','29d2c680a8',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_271">
+		<td align="center">1</td>
+		<td align="center">16:23:19</td>
+		<td align="center">16:34:19</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_28');"><b>1</b></a></td>
+    <td align="center">16:24:26</td>
+    <td align="center">16:32:05</td>
+    <td NOWRAP>South Africa</td>
+    <td NOWRAP>Johannesburg</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','165.165.xxx.xxx','165.165.xxx.xxx','326ae98029',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_281">
+		<td align="center">1</td>
+		<td align="center">16:24:26</td>
+		<td align="center">16:28:56</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_29');"><b>1</b></a></td>
+    <td align="center">16:24:39</td>
+    <td align="center">16:27:49</td>
+    <td NOWRAP>Cyprus</td>
+    <td NOWRAP>Limassol</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','185.175.xxx.xxx','185.175.xxx.xxx','8d2d7835ac',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_291">
+		<td align="center">1</td>
+		<td align="center">16:24:39</td>
+		<td align="center">16:24:39</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.ifxbrokers.com/" target="_blank"><b>https://www.ifxbrokers.com/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_30');"><b>19</b></a></td>
+    <td align="center">17:22:44</td>
+    <td align="center">21:35:53</td>
+    <td NOWRAP>Ukraine</td>
+    <td NOWRAP>Mykolayiv</td>
+    <td NOWRAP>macOS 10.13 (High Sierra)</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','7','1','93.74.xxx.xxx','193.34.xxx.xxx','dba3f00ee2',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_301">
+		<td align="center">1</td>
+		<td align="center">17:22:44</td>
+		<td align="center">17:23:44</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/login.html" target="_blank"><b>https://ifxbrokers.com/login.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_302">
+		<td align="center">2</td>
+		<td align="center">20:41:04</td>
+		<td align="center">20:46:19</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/" target="_blank"><b>http://127.0.0.1:8081/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_303">
+		<td align="center">3</td>
+		<td align="center">20:46:19</td>
+		<td align="center">20:46:30</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/register.html" target="_blank"><b>http://127.0.0.1:8081/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_304">
+		<td align="center">4</td>
+		<td align="center">20:46:30</td>
+		<td align="center">20:54:08</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/index.html" target="_blank"><b>http://127.0.0.1:8081/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_305">
+		<td align="center">5</td>
+		<td align="center">20:54:08</td>
+		<td align="center">20:54:12</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/register.html" target="_blank"><b>http://127.0.0.1:8081/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_306">
+		<td align="center">6</td>
+		<td align="center">20:54:12</td>
+		<td align="center">21:12:13</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/index.html" target="_blank"><b>http://127.0.0.1:8081/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_307">
+		<td align="center">7</td>
+		<td align="center">21:12:13</td>
+		<td align="center">21:16:21</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/partnership.html" target="_blank"><b>http://127.0.0.1:8081/partnership.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_308">
+		<td align="center">8</td>
+		<td align="center">20:43:52</td>
+		<td align="center">20:47:06</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/" target="_blank"><b>http://127.0.0.1:8081/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_309">
+		<td align="center">9</td>
+		<td align="center">20:47:20</td>
+		<td align="center">20:47:20</td>
+		<td colspan="4"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/register.html" target="_blank"><b>http://127.0.0.1:8081/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3010">
+		<td align="center">10</td>
+		<td align="center">20:55:39</td>
+		<td align="center">20:55:39</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/login.html" target="_blank"><b>http://127.0.0.1:8081/login.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3011">
+		<td align="center">11</td>
+		<td align="center">20:57:30</td>
+		<td align="center">21:11:39</td>
+		<td colspan="4"><!--lang_stats_browser--> 6:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/login.html" target="_blank"><b>http://127.0.0.1:8081/login.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3012">
+		<td align="center">12</td>
+		<td align="center">20:58:31</td>
+		<td align="center">21:12:02</td>
+		<td colspan="4"><!--lang_stats_browser--> 7:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/register.html" target="_blank"><b>http://127.0.0.1:8081/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3013">
+		<td align="center">13</td>
+		<td align="center">21:12:18</td>
+		<td align="center">21:12:18</td>
+		<td colspan="4"><!--lang_stats_browser--> 8:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/login.html" target="_blank"><b>http://127.0.0.1:8081/login.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3014">
+		<td align="center">14</td>
+		<td align="center">21:12:20</td>
+		<td align="center">21:12:20</td>
+		<td colspan="4"><!--lang_stats_browser--> 9:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://127.0.0.1:8081/register.html" target="_blank"><b>http://127.0.0.1:8081/register.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3015">
+		<td align="center">15</td>
+		<td align="center">21:17:22</td>
+		<td align="center">21:20:31</td>
+		<td colspan="4"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/about.html" target="_blank"><b>https://ifxbrokers.com/about.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3016">
+		<td align="center">16</td>
+		<td align="center">21:20:31</td>
+		<td align="center">21:23:16</td>
+		<td colspan="4"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/index.html" target="_blank"><b>https://ifxbrokers.com/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3017">
+		<td align="center">17</td>
+		<td align="center">21:23:16</td>
+		<td align="center">21:22:03</td>
+		<td colspan="4"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/learn.html#theifxacademy" target="_blank"><b>https://ifxbrokers.com/learn.html#theifxacademy</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3018">
+		<td align="center">18</td>
+		<td align="center">21:22:03</td>
+		<td align="center">21:25:34</td>
+		<td colspan="4"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/about.html#whoweare" target="_blank"><b>https://ifxbrokers.com/about.html#whoweare</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_3019">
+		<td align="center">19</td>
+		<td align="center">21:25:34</td>
+		<td align="center">21:33:37</td>
+		<td colspan="4"><!--lang_stats_browser--> 10:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://ifxbrokers.com/depositsWithdrawals.html" target="_blank"><b>https://ifxbrokers.com/depositsWithdrawals.html</b></a></td>
+	</tr>
+
+			</table>
+			<br>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+function showInfoBox(_isp, _visits, _visits_day, _ip, _host, _id, _parent)
+{
+if(ibCurrent != _parent)
+{
+document.getElementById("info_box").innerHTML = "<strong>ID:</strong> " + _id + "<br><strong><!--lang_stats_isp-->:</strong> " + _isp + "<br><strong>IP:</strong> " +_ip + "<br><strong>Host:</strong> " +_host + "<br><strong><!--lang_stats_visits-->:</strong> " + _visits + "<br><strong><!--lang_stats_visits_today-->:</strong> " + _visits_day;
+assignPosition(document.getElementById("info_box"));
+document.getElementById("info_box").style.display = "block";
+ibCurrent = _parent;
+}
+else
+{
+document.getElementById("info_box").style.display = "none";
+ibCurrent = null;
+}
+}
+</script>
